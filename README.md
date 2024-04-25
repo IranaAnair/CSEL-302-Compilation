@@ -25,4 +25,5 @@ Links to Google Colab Notebooks:
 
 ---
 
-CSV files will be added individually on the repository.
+Some CSV files will be added individually on the repository.
+*   [Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
